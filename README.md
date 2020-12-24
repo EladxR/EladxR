@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Elad and I'm a studemt at Tel Aviv University at my second year.
+My name is Elad and I'm a student at Tel Aviv University at my second year.
 
 I'm Looking for a student position
 
@@ -8,7 +8,7 @@ One is a messaing app in Android studio and java.
 The second is Unity game with C#.
 
 
-Knowlege in programming languages: Python, Java, C#, C
+Knowledge in programming languages: Python, Java, C#, C
 
 🌱 I’m currently learning javascript
 
