@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Elad and I'm a student at Tel Aviv University at my second year.
+My name is Elad and I'm a student at Tel Aviv University, finished second year.
 
 I'm Looking for a student position
 
